@@ -1,0 +1,19 @@
+- mode libre -> Denden -> 28/29
+- mode evaluation -> Nico -> 28/29
+- base de données -> Nico
+- historique -> Denden
+- tableau de bord -> Nico
+- sauvegarde -> Denden
+- Compte rendu -> Chacun ses parties
+- menu -> Le premier a finir
+(- uml propre -> Nico)
+
+? (Si provocation d'une vidange d'un reservoir alors que vanne ouverte entre ce reservoir et un autre plein, remplissage automatique du reservoir vide.)
+( Actuellement les widgets s'envoient des signaux à eux-mêmes, ce qui pue le caca.
+ Déplacer les slots clickedSlot des widgets dans mousePressEvent )
+( Fusionner map et attributs de systemeCarburant )
+
+
+todo. Séparer le mode libre du mode creation d'exercice
+todo. Distinguer le mode exercice du mode simulation
+-> verifier a ce moment la que les pompes primaires ne peuvent etre que dans 2 états : BROKEN | ON
